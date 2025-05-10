@@ -1,0 +1,342 @@
+station_id,station_name,network_id,network_name,lat,lon,CityEng,StatesEng,CityNoAcc,StatesNoAcc
+397,"CENICA 1, UAM Iztapalapa",144,,19.489583333333,-98.801083333333,San Nicolás Tlaminca,State of Mexico,San Nicolas Tlaminca,State of Mexico
+344,C. Salud Tlaxcoapán,127,,20.091472222222,-99.228416666667,Tlaxcoapan,Hidalgo,Tlaxcoapan,Hidalgo
+365,Costa Baja,140,,-1.0,-1.0,,,,
+393,Unidad Móvil de Hidalgo,143,,19.489583333333,-98.801083333333,San Nicolás Tlaminca,State of Mexico,San Nicolas Tlaminca,State of Mexico
+394,Unidad Móvil Iztapalapa,143,,19.489583333333,-98.801083333333,San Nicolás Tlaminca,State of Mexico,San Nicolas Tlaminca,State of Mexico
+395,Unidad Móvil Tecamachalco,143,,19.489583333333,-98.801083333333,San Nicolás Tlaminca,State of Mexico,San Nicolas Tlaminca,State of Mexico
+396,Unidad Móvil Toluca,143,,19.489583333333,-98.801083333333,San Nicolás Tlaminca,State of Mexico,San Nicolas Tlaminca,State of Mexico
+356,Presidencia Municipal,134,Abasolo,20.425277777778,-101.19805555556,Valle de Santiago,Guanajuato,Valle de Santiago,Guanajuato
+353,Dirección de Ecología Municipal,131,Acámbaro,20.590833333333,-101.20861111111,Salamanca,Guanajuato,Salamanca,Guanajuato
+184,Instituto Tecnológico de Agua Prieta,85,Agua Prieta,31.311944444444,-109.53563888889,Agua Prieta,Sonora,Agua Prieta,Sonora
+31,CBTIS ,30,Aguascalientes,21.873311111111,-102.32080277778,Aguascalientes City,Aguascalientes,Aguascalientes City,Aguascalientes
+33,Centro,30,Aguascalientes,21.883780555556,-102.295825,Aguascalientes City,Aguascalientes,Aguascalientes City,Aguascalientes
+303,Instituto Educativo,30,Aguascalientes,21.903,-102.28461111111,Aguascalientes City,Aguascalientes,Aguascalientes City,Aguascalientes
+34,ISSSTE,30,Aguascalientes,21.871138888889,-102.29397222222,Aguascalientes City,Aguascalientes,Aguascalientes City,Aguascalientes
+30,Secundaria Leyes de Reforma,30,Aguascalientes,21.903,-102.28461111111,Aguascalientes City,Aguascalientes,Aguascalientes City,Aguascalientes
+310,Parque Landeros,30,Aguascalientes,-1.0,-1.0,,,,
+311,PROFEPA,30,Aguascalientes,-1.0,-1.0,,,,
+32,Secretaría de Medio Ambiente,30,Aguascalientes,21.846391666667,-102.28843055556,Aguascalientes City,Aguascalientes,Aguascalientes City,Aguascalientes
+81,Presidencia Municipal,50,Ajacuba,20.0925,-99.122,Ajacuba,Hidalgo,Ajacuba,Hidalgo
+200,Altamira1,99,Altamira,21.326111111111,-97.693055555556,Naranjos,Veracruz,Naranjos,Veracruz
+201,Altamira2,99,Altamira,21.354166666667,-97.692222222222,Naranjos,Veracruz,Naranjos,Veracruz
+223,Apizaco,110,Apizaco,19.42,-98.145277777778,Apizaco,Tlaxcala,Apizaco,Tlaxcala
+82,Centro de Salud,51,Atitalaquia,20.06,-99.221944444444,Cardonal,Hidalgo,Cardonal,Hidalgo
+83,Primaria Revolución,52,Atotonilco,20.006666666667,-99.218888888889,Atotonilco de Tula,Hidalgo,Atotonilco de Tula,Hidalgo
+195,Instituto Tecnológico Superior de los Ríos,94,Balancán,17.829444444444,-91.531388888889,Balancán de Domínguez,Tabasco,Balancan de Dominguez,Tabasco
+185,ITESC,86,Cajeme,27.528444444444,-109.92586111111,Ciudad Obregón,Sonora,Ciudad Obregon,Sonora
+221,Calpulalpan,108,Calpulalpan,19.589166666667,-98.577777777778,Calpulalpan,Tlaxcala,Calpulalpan,Tlaxcala
+49,Guadalupe,36,Campeche,19.846333333333,-90.530777777778,Campeche City,Campeche,Campeche City,Campeche
+382,CARDENAS,141,Cardenas,-1.0,-1.0,,,,
+203,Presidencia,100,Cd. Victoria,23.751111111111,-99.149444444444,Ciudad Victoria,Tamaulipas,Ciudad Victoria,Tamaulipas
+389,Presidencia,100,Cd. Victoria,23.751555555556,-99.15025,Ciudad Victoria,Tamaulipas,Ciudad Victoria,Tamaulipas
+202,Tecnológico,100,Cd. Victoria,23.753333333333,-99.001666666667,,Tamaulipas,,Tamaulipas
+68,Policía,45,Celaya,20.5175,-100.81555555556,Celaya,Guanajuato,Celaya,Guanajuato
+70,San Juanico,45,Celaya,20.5375,-100.83972222222,Celaya,Guanajuato,Celaya,Guanajuato
+69,Tecnológico,45,Celaya,20.545277777778,-100.80694444444,Celaya,Guanajuato,Celaya,Guanajuato
+422,Instituto Tecnológico del Centla,148,Centla,18.54105,-92.650141666667,Frontera,Tabasco,Frontera,Tabasco
+192,Instituto Tecnológico de Villahermosa,93,Centro,18.022933333333,-92.903219444444,Villahermosa,Tabasco,Villahermosa,Tabasco
+193,Plaza de Toro,93,Centro,17.989066666667,-92.95435,Villahermosa,Tabasco,Villahermosa,Tabasco
+194,Secretaria de Educación,93,Centro,17.988055555556,-92.939722222222,Villahermosa,Tabasco,Villahermosa,Tabasco
+421,Universidad Politécnica del Centro,93,Centro,18.086358333333,-93.164325,Cunduacán,Tabasco,Cunduacan,Tabasco
+384,Villahermosa,93,Centro,19.489583333333,-98.801083333333,San Nicolás Tlaminca,State of Mexico,San Nicolas Tlaminca,State of Mexico
+54,Centro,38,Chihuahua,28.652227777778,-106.08535833333,Chihuahua City,Chihuahua,Chihuahua City,Chihuahua
+53,SUR,38,Chihuahua,28.632775,-106.03886694444,Chihuahua City,Chihuahua,Chihuahua City,Chihuahua
+55,CIMAV,39,Chihuahua - Municipal,28.716083333333,-106.13330555556,Chihuahua City,Chihuahua,Chihuahua City,Chihuahua
+57,Tecnologico,41,Colima,19.262127777778,-103.72403333333,Villa de Álvarez,Colima,Villa de Alvarez,Colima
+383,instituto Tecnológico Superior de Comalcalco,142,Comalcalco,18.295,-93.2175,Comalcalco,Tabasco,Comalcalco,Tabasco
+166,CAM,76,Corregidora,20.556111111111,-100.44564722222,Corregidora,Querétaro,Corregidora,Queretaro
+350,Presidencia Municipal,129,Cortazar,20.811572222222,-101.61143333333,,Guanajuato,,Guanajuato
+132,Palacio Municipal Cuautla,67,Cuautla,18.812986944444,-98.955305833333,Cuautla,Morelos,Cuautla,Morelos
+134,Cuernavaca 01,69,Cuernavaca,18.921817777778,-99.234896666667,Cuernavaca,Morelos,Cuernavaca,Morelos
+411,Culiacan,80,Culiacán,24.807111111111,-107.39383333333,Culiacán,Sinaloa,Culiacan,Sinaloa
+415,Culiacan,80,Culiacán,24.800083333333,-107.39480555556,Culiacán,Sinaloa,Culiacan,Sinaloa
+175,H. Ayuntamiento de Culiacán,80,Culiacán,24.800083333333,-107.39480555556,Culiacán,Sinaloa,Culiacan,Sinaloa
+177,Edificio de SCT,80,Culiacán,24.482611111111,-107.23377777778,Doroteo Arango,Sinaloa,Doroteo Arango,Sinaloa
+176,Oficinas de la Secretaría,80,Culiacán,24.800083333333,-107.39480555556,Culiacán,Sinaloa,Culiacan,Sinaloa
+360,Mega Parque,138,Dolores Hidalgo,21.085527777778,-100.56347222222,,Guanajuato,,Guanajuato
+62,CBTIS,42,Durango,24.007472222222,-104.64463888889,Durango,Durango,Durango,Durango
+63,Cancún,42,Durango,-1.0,-1.0,,,,
+59,IPN,42,Durango,24.051555555556,-104.61136111111,Durango,Durango,Durango,Durango
+58,ITD,42,Durango,24.034472222222,-104.64502777778,Durango,Durango,Durango,Durango
+64,PROFEPA,42,Durango,24.026777777778,-104.69297222222,Durango,Durango,Durango,Durango
+60,SRNyMA,42,Durango,24.026777777778,-104.692975,Durango,Durango,Durango,Durango
+61,Zaragoza,42,Durango,24.027944444444,-104.6725,Durango,Durango,Durango,Durango
+206,CEEA,102,El Mante,22.743611111111,-98.980277777778,Ciudad Mante,Tamaulipas,Ciudad Mante,Tamaulipas
+204,COBAT,101,El Mante,22.745555555556,-98.997222222222,Ciudad Mante,Tamaulipas,Ciudad Mante,Tamaulipas
+205,Presidencia,101,El Mante,22.743611111111,-98.980277777778,Ciudad Mante,Tamaulipas,Ciudad Mante,Tamaulipas
+167,El Marqués,77,El Marques,20.606344444444,-100.33111944444,Querétaro,Querétaro,Queretaro,Queretaro
+36,Secundaria,31,Ensenada,31.859916666667,-116.59372222222,Ensenada,Baja California,Ensenada,Baja California
+373,Secundaria No. 9,31,Ensenada,31.859916666667,-116.59372222222,Ensenada,Baja California,Ensenada,Baja California
+65,Campestre,43,Gómez Palacio,25.551222222222,-103.50252777778,Gómez Palacio,Durango,Gomez Palacio,Durango
+66,Universidad Juárez,43,Gómez Palacio,25.588630555556,-103.50160277778,Gómez Palacio,Durango,Gomez Palacio,Durango
+341,SRNyMA Laguna,43,Gómez Palacio,25.604666666667,-103.5,Gómez Palacio,Durango,Gomez Palacio,Durango
+103,Las Águilas,63,Guadalajara,20.631268055556,-103.41643083333,Zapopan,Jalisco,Zapopan,Jalisco
+101,Atemajac,63,Guadalajara,20.719673888889,-103.35543472222,Zapopan,Jalisco,Zapopan,Jalisco
+102,Centro,63,Guadalajara,20.673764722222,-103.33333611111,Guadalajara,Jalisco,Guadalajara,Jalisco
+105,Loma Dorada,63,Guadalajara,20.629294722222,-103.26397416667,Tonalá,Jalisco,Tonala,Jalisco
+106,Miravalle,63,Guadalajara,20.614444444444,-103.34333333333,Guadalajara,Jalisco,Guadalajara,Jalisco
+107,Oblatos,63,Guadalajara,20.700538611111,-103.29661666667,Guadalajara,Jalisco,Guadalajara,Jalisco
+104,Las Pintas,63,Guadalajara,20.576823888889,-103.32652861111,Las Pintitas,Jalisco,Las Pintitas,Jalisco
+108,Santa Fe,63,Guadalajara,20.529149444444,-103.37717944444,La Unión del Cuatro,Jalisco,La Union del Cuatro,Jalisco
+109,Tlaquepaque,63,Guadalajara,20.640966666667,-103.31259194444,Tlaquepaque,Jalisco,Tlaquepaque,Jalisco
+110,Vallarta,63,Guadalajara,20.680193055556,-103.39855138889,Guadalajara,Jalisco,Guadalajara,Jalisco
+237,Guadalupe Zacatecas,117,Guadalupe,22.751238888889,-102.49965833333,Guadalupe,Zacatecas,Guadalupe,Zacatecas
+296,Presidencia Municipal,117,Guadalupe,22.749528333333,-102.51302722222,Guadalupe,Zacatecas,Guadalupe,Zacatecas
+359,Universidad Gto Sede Belen,137,Guanajuato,21.017583333333,-101.25736111111,Guanajuato City,Guanajuato,Guanajuato City,Guanajuato
+178,Edificio Carlone,81,Guasave,25.567416666667,-108.46319444444,Guasave,Sinaloa,Guasave,Sinaloa
+416,Guasave,81,Guasave,25.567416666667,-108.46319444444,Guasave,Sinaloa,Guasave,Sinaloa
+188,Guaymas,89,Guaymas,-1.0,-1.0,,,,
+293,Protección Civil,122,Guerrero,16.850330555556,-99.903738888889,Acapulco,Guerrero,Acapulco,Guerrero
+186,Universidad de Sonora,87,Hermosillo,29.074805555556,-110.93313888889,Hermosillo,Sonora,Hermosillo,Sonora
+222,Huamantla,109,Huamantla,19.3125,-97.923055555556,Huamantla,Tlaxcala,Huamantla,Tlaxcala
+85,Hospital,54,Huichapan,20.375111111111,-99.654444444444,Huichapan,Hidalgo,Huichapan,Hidalgo
+196,Instituto Tecnológico Superior de la Venta,95,Huimanguillo,18.111388888889,-94.039722222222,La Venta,Tabasco,La Venta,Tabasco
+72,Bomberos,46,Irapuato,21.118055555556,-101.60216666667,León,Guanajuato,Leon,Guanajuato
+71,Sec. Oficial,46,Irapuato,20.6925,-101.365,Irapuato,Guanajuato,Irapuato,Guanajuato
+73,Teódula,46,Irapuato,20.658055555556,-101.34888888889,Irapuato,Guanajuato,Irapuato,Guanajuato
+225,Ixtacuixtla-Panotla,112,Ixtacuixtla-Panotla,19.326666666667,-98.376944444444,Villa Mariano Matamoros,Tlaxcala,Villa Mariano Matamoros,Tlaxcala
+349,Presidencia Municipal,128,Juventino Rosas,21.075,-101.66155555556,León,Guanajuato,Leon,Guanajuato
+74,CICEG - Bomberos,47,León,21.103055555556,-101.63611111111,León,Guanajuato,Leon,Guanajuato
+75,Facultad de Medicina,47,León,21.133333333333,-101.68,León,Guanajuato,Leon,Guanajuato
+348,Zona Sur,47,León,21.001222222222,-101.14372222222,Rosa de Castilla,Guanajuato,Rosa de Castilla,Guanajuato
+76,T21,47,León,21.108611111111,-101.68861111111,León,Guanajuato,Leon,Guanajuato
+342,Lerdo,44,Lerdo,25.539194444444,-103.52322222222,Ciudad Lerdo,Durango,Ciudad Lerdo,Durango
+67,SAGARPA,44,Lerdo,25.539180555556,-103.52321666667,Ciudad Lerdo,Durango,Ciudad Lerdo,Durango
+100,Presidencia Municipal,62,Lolotla,20.839166666667,-98.718611111111,,Hidalgo,,Hidalgo
+181,DIF Municipal,83,Los Mochis (Ahome),25.783333333333,-108.99013888889,Los Mochis,Sinaloa,Los Mochis,Sinaloa
+414,Ayuntamiento,83,Los Mochis (Ahome),25.783472222222,-108.99366666667,Los Mochis,Sinaloa,Los Mochis,Sinaloa
+182,Rectoría de Univ. de Occidente,83,Los Mochis (Ahome),25.783472222222,-108.99366666667,Los Mochis,Sinaloa,Los Mochis,Sinaloa
+209,Bomberos Lauro Villar,103,Matamoros,25.871111111111,-97.507222222222,Matamoros,Tamaulipas,Matamoros,Tamaulipas
+207,DIF,103,Matamoros,26.634166666667,-97.509166666667,,Texas,,Texas
+208,Quinto Real,103,Matamoros,25.856111111111,-97.534166666667,Matamoros,Tamaulipas,Matamoros,Tamaulipas
+210,Solidaridad,103,Matamoros,25.837777777778,-97.530833333333,Matamoros,Tamaulipas,Matamoros,Tamaulipas
+179,Junta Municipal de Agua Potable,82,Mazatlán,23.249861111111,-106.38522222222,Mazatlán,Sinaloa,Mazatlan,Sinaloa
+413,Mazatlan,82,Mazatlán,23.233382833333,-106.42385783333,Mazatlán,Sinaloa,Mazatlan,Sinaloa
+180,Seguro Social,82,Mazatlán,23.233388888889,-106.42386111111,Mazatlán,Sinaloa,Mazatlan,Sinaloa
+236,SEDUMA01,116,Mérida,20.973272222222,-89.624811111111,Mérida,Yucatán,Merida,Yucatan
+369,Instituto Tecnológico de Mexicali ,32,Mexicali,-1.0,-1.0,,,,
+37,CONALEP,32,Mexicali,32.57,-115.34888888889,Ejido Puebla,Baja California,Ejido Puebla,Baja California
+38,UABC,32,Mexicali,32.631316666667,-115.44463055556,Mexicali,Baja California,Mexicali,Baja California
+371,UABC - Universidad Autónoma de Baja California ,32,Mexicali,-1.0,-1.0,,,,
+403,Centro de bachillerato,32,Mexicali,-1.0,-1.0,,,,
+39,COBACH,32,Mexicali,32.639722222222,-115.50638888889,Mexicali,Baja California,Mexicali,Baja California
+40,Progreso,32,Mexicali,32.582777777778,-115.58333333333,Progreso,Baja California,Progreso,Baja California
+370,Centro de Salud,32,Mexicali,32.582777777778,-115.58333333333,Progreso,Baja California,Progreso,Baja California
+402,Campestre,32,Mexicali,34.57,-115.34888888889,,California,,California
+41,CESPM,32,Mexicali,32.603638888889,-115.48594444444,Mexicali,Baja California,Mexicali,Baja California
+366,Comisión Estatal,32,Mexicali,19.489583333333,-98.801083333333,San Nicolás Tlaminca,State of Mexico,San Nicolas Tlaminca,State of Mexico
+42,UPBC,32,Mexicali,32.625972222222,-115.37575,Mexicali,Baja California,Mexicali,Baja California
+372,Universidad Politécnica de Baja California ,32,Mexicali,19.489583333333,-98.801083333333,San Nicolás Tlaminca,State of Mexico,San Nicolas Tlaminca,State of Mexico
+234,Tecnológico,114,Minatitlán,18.005675,-94.555336111111,,Veracruz,,Veracruz
+305,Jurisdicción Sanitaria,124,Monclova,26.908194444444,-101.427,Monclova,Coahuila,Monclova,Coahuila
+141,Obispado,72,Monterrey,25.675833333333,-100.33833333333,Monterrey,Nuevo León,Monterrey,Nuevo Leon
+144,Escobedo,72,Monterrey,25.800555555556,-100.34444444444,General Escobedo,Nuevo León,General Escobedo,Nuevo Leon
+425,Universidad,72,Monterrey,25.73,-100.30972222222,San Nicolás de los Garza,Nuevo León,San Nicolas de los Garza,Nuevo Leon
+142,San Nicolás,72,Monterrey,25.745277777778,-100.255,San Nicolás de los Garza,Nuevo León,San Nicolas de los Garza,Nuevo Leon
+146,Apodaca,72,Monterrey,25.777222222222,-100.18833333333,Apodaca,Nuevo León,Apodaca,Nuevo Leon
+140,San Bernabé,72,Monterrey,25.756944444444,-100.36583333333,Monterrey,Nuevo León,Monterrey,Nuevo Leon
+145,García,72,Monterrey,25.783333333333,-100.58583333333,,Nuevo León,,Nuevo Leon
+143,La Pastora,72,Monterrey,25.668055555556,-100.24944444444,Guadalupe,Nuevo León,Guadalupe,Nuevo Leon
+147,Juárez,72,Monterrey,25.646111111111,-100.09555555556,Benito Juárez,Nuevo León,Benito Juarez,Nuevo Leon
+424,Cadereyta,72,Monterrey,25.600555555556,-99.994166666667,Cadereyta Jiménez,Nuevo León,Cadereyta Jimenez,Nuevo Leon
+139,Santa Catarina,72,Monterrey,25.675555555556,-100.46472222222,Santa Catarina,Nuevo León,Santa Catarina,Nuevo Leon
+148,San Pedro,72,Monterrey,25.665277777778,-100.41277777778,San Pedro Garza García,Nuevo León,San Pedro Garza Garcia,Nuevo Leon
+426,Pueblo Serena,72,Monterrey,25.575277777778,-100.24916666667,,Nuevo León,,Nuevo Leon
+388,Palacio Municipal,66,Morelia,19.701388888889,-101.195,Morelia,Michoacán,Morelia,Michoacan
+129,Universidad Michoacana de San Nicolás Hidalgo,66,Morelia,19.690461111111,-101.20478888889,Morelia,Michoacán,Morelia,Michoacan
+131,Laboratorio de Salud,66,Morelia,19.691977777778,-101.15547222222,Morelia,Michoacán,Morelia,Michoacan
+130,Palacio Municipal,66,Morelia,19.701388888889,-101.195,Morelia,Michoacán,Morelia,Michoacan
+354,Dirección de Ecología Municipal,132,Moroleon,20.131944444444,-101.18833333333,Moroleón,Guanajuato,Moroleon,Guanajuato
+114,ACS,64,Municipio de Juárez,31.752777777778,-106.50111111111,Ciudad Juárez,Chihuahua,Ciudad Juarez,Chihuahua
+112,ADVANCE,64,Municipio de Juárez,31.689722222222,-106.45972222222,Ciudad Juárez,Chihuahua,Ciudad Juarez,Chihuahua
+115,ANAPRA,64,Municipio de Juárez,31.775,-106.56027777778,Puerto de Anapra,Chihuahua,Puerto de Anapra,Chihuahua
+118,BABICORA,64,Municipio de Juárez,31.645,-106.38394444444,Ciudad Juárez,Chihuahua,Ciudad Juarez,Chihuahua
+119,BENITO JUÁREZ,64,Municipio de Juárez,31.656666666667,-106.35805555556,,Chihuahua,,Chihuahua
+120,CHAMIZAL,64,Municipio de Juárez,31.755,-106.45958333333,Ciudad Juárez,Chihuahua,Ciudad Juarez,Chihuahua
+111,CANALES LIRA,64,Municipio de Juárez,31.735555555556,-106.50361111111,Ciudad Juárez,Chihuahua,Ciudad Juarez,Chihuahua
+407,Delphi,64,Municipio de Juárez,-1.0,-1.0,,,,
+387,Chihuahua,64,Municipio de Juárez,19.489583333333,-98.801083333333,San Nicolás Tlaminca,State of Mexico,San Nicolas Tlaminca,State of Mexico
+116,FEDERAL 3,64,Municipio de Juárez,31.728055555556,-106.50361111111,Ciudad Juárez,Chihuahua,Ciudad Juarez,Chihuahua
+117,NIÑEZ-MEXICANA,64,Municipio de Juárez,31.661111111111,-106.45416666667,Ciudad Juárez,Chihuahua,Ciudad Juarez,Chihuahua
+386,Peztalozzi,64,Municipio de Juárez,19.489583333333,-98.801083333333,San Nicolás Tlaminca,State of Mexico,San Nicolas Tlaminca,State of Mexico
+121,TECNO,64,Municipio de Juárez,31.717083333333,-106.39633333333,Ciudad Juárez,Chihuahua,Ciudad Juarez,Chihuahua
+113,ZENCO,64,Municipio de Juárez,31.637055555556,-106.44241666667,,Chihuahua,,Chihuahua
+197,Instituto Politécnico de la Chontalpa,96,Nacajuca,18.1755,-93.026833333333,,Tabasco,,Tabasco
+189,Navojoa,90,Navojoa,-1.0,-1.0,,,,
+187,Instituto Tecnológico de Nogales,88,Nogales,31.293111111111,-110.95230555556,Heroica Nogales,Sonora,Heroica Nogales,Sonora
+213,Bomberos,104,Nuevo Laredo,27.513611111111,-99.556388888889,Nuevo Laredo,Tamaulipas,Nuevo Laredo,Tamaulipas
+212,CBTIS234,104,Nuevo Laredo,27.412222222222,-99.546944444444,Nuevo Laredo,Tamaulipas,Nuevo Laredo,Tamaulipas
+214,IMSS Santa Fé,104,Nuevo Laredo,27.495555555556,-99.549166666667,Nuevo Laredo,Tamaulipas,Nuevo Laredo,Tamaulipas
+211,Tecnológico,104,Nuevo Laredo,27.453055555556,-99.515,Nuevo Laredo,Tamaulipas,Nuevo Laredo,Tamaulipas
+160,CEDART,73,Oaxaca,16.699340277778,-96.866455,,Oaxaca,,Oaxaca
+297,Casa Hogar,73,Oaxaca,17.094666666667,-96.752166666667,Oaxaca City,Oaxaca,Oaxaca City,Oaxaca
+133,Palacio Municipal,68,Ocuituco,18.8775,-98.775555555556,Ocuituco,Morelos,Ocuituco,Morelos
+412,Presidencia Municipal,145,Ojinaga,29.564416666667,-104.41577777778,Ojinaga,Chihuahua,Ojinaga,Chihuahua
+419,Protección Civil,145,Ojinaga,29.53825,-104.42255555556,Ojinaga,Chihuahua,Ojinaga,Chihuahua
+418,Taller de Obras Públicas,145,Ojinaga,29.547833333333,-104.40141666667,Ojinaga,Chihuahua,Ojinaga,Chihuahua
+94,Casa de la Mujer Hidalguense,59,Pachuca,20.123361111111,-98.73675,Pachuca,Hidalgo,Pachuca,Hidalgo
+343,Cubitos,59,Pachuca,19.489583333333,-98.801083333333,San Nicolás Tlaminca,State of Mexico,San Nicolas Tlaminca,State of Mexico
+95,Instituto Tecnológico de Pachuca,59,Pachuca,20.083083333333,-98.773472222222,Venta Prieta,Hidalgo,Venta Prieta,Hidalgo
+92,Jardín del Maestro,59,Pachuca,20.120555555556,-98.74,Pachuca,Hidalgo,Pachuca,Hidalgo
+93,Museo del Rehilete,59,Pachuca,20.077222222222,-98.777972222222,Venta Prieta,Hidalgo,Venta Prieta,Hidalgo
+198,Universidad Politécnica del Golfo de México,97,Paraíso,18.368611111111,-93.196111111111,,Tabasco,,Tabasco
+306,Centro de Rehabilitación DIF,125,Piedras Negras,28.707666666667,-100.5265,Piedras Negras,Coahuila,Piedras Negras,Coahuila
+291,Universidad Veracruzana,120,Poza Rica,20.508972222222,-97.446986111111,Poza Rica,Veracruz,Poza Rica,Veracruz
+163,Benemérito Instituto Normal del Estado,74,Puebla,19.062722222222,-98.224527777778,Puebla City,Puebla,Puebla City,Puebla
+162,Las Ninfas,74,Puebla,19.041388888889,-98.214222222222,Puebla City,Puebla,Puebla City,Puebla
+161,Agua Santa,74,Puebla,18.987583333333,-98.250388888889,Puebla City,Puebla,Puebla City,Puebla
+164,Universidad Tecnológica de Puebla,74,Puebla,19.071888888889,-98.151722222222,Puebla City,Puebla,Puebla City,Puebla
+406,Universidad Tecnológica de Puebla,74,Puebla,19.071888888889,-98.151722222222,Puebla City,Puebla,Puebla City,Puebla
+165,Velódromo,74,Puebla,18.987361111111,-98.277944444444,,Puebla,,Puebla
+191,Puerto Peñasco,92,Puerto Peñasco,-1.0,-1.0,,,,
+423,Purísima del Rincón,149,Purísima del Rincón,-1.0,-1.0,,,,
+215,Reynosa1,105,Reynosa,26.0625,-98.330277777778,Reynosa,Tamaulipas,Reynosa,Tamaulipas
+216,Reynosa2,105,Reynosa,26.038611111111,-98.390833333333,,Tamaulipas,,Tamaulipas
+217,Reynosa3,105,Reynosa,26.056666666667,-98.325277777778,Reynosa,Tamaulipas,Reynosa,Tamaulipas
+218,Reynosa4,105,Reynosa,26.0575,-98.335555555556,Reynosa,Tamaulipas,Reynosa,Tamaulipas
+43,Rosarito,33,Rosarito,32.353055555556,-117.05611111111,Rosarito,Baja California,Rosarito,Baja California
+374,Rosarito,33,Rosarito,19.489583333333,-98.801083333333,San Nicolás Tlaminca,State of Mexico,San Nicolas Tlaminca,State of Mexico
+77,Cruz roja,48,Salamanca,20.578611111111,-101.19888888889,Salamanca,Guanajuato,Salamanca,Guanajuato
+78,DIF,48,Salamanca,20.558055555556,-101.20472222222,Salamanca,Guanajuato,Salamanca,Guanajuato
+79,Nativitas,48,Salamanca,20.565,-101.18805555556,Salamanca,Guanajuato,Salamanca,Guanajuato
+304,Finanzas,123,Saltillo,25.421472222222,-100.99686111111,Saltillo,Coahuila,Saltillo,Coahuila
+417,Salvador Alvarado,84,Salvador Alvarado,25.456944444444,-108.08091666667,Guamúchil,Sinaloa,Guamuchil,Sinaloa
+183,Ayuntamiento,84,Salvador Alvarado,25.456944444444,-108.08091666667,Guamúchil,Sinaloa,Guamuchil,Sinaloa
+357,Dirección de Ecología Municipal,135,San Francisco del Rincón,21.020555555556,-101.85333333333,San Francisco del Rincón,Guanajuato,San Francisco del Rincon,Guanajuato
+361,Presidencia Municipal,139,San José Iturbide,20.998888888889,-100.38527777778,San José Iturbide,Guanajuato,San Jose Iturbide,Guanajuato
+410,UMMASJR,146,San Juan del Rio,20.389444444444,-99.972972222222,San Juan del Río,Querétaro,San Juan del Rio,Queretaro
+358,Presidencia Municipal,136,San Luis de la Paz,21.295861111111,-100.52330555556,San Luis de la Paz,Guanajuato,San Luis de la Paz,Guanajuato
+174,Biblioteca,79,San Luis Potosí Estatal,22.174222222222,-100.99308333333,San Luis Potosí City,San Luis Potosí,San Luis Potosi City,San Luis Potosi
+172,DIF,79,San Luis Potosí Estatal,22.13175,-100.97691666667,San Luis Potosí City,San Luis Potosí,San Luis Potosi City,San Luis Potosi
+173,Facultad Psicología,79,San Luis Potosí Estatal,22.144444444444,-100.94861111111,San Luis Potosí City,San Luis Potosí,San Luis Potosi City,San Luis Potosi
+171,Industriales Potosinos Asociados,79,San Luis Potosí Estatal,22.15125,-100.99611111111,San Luis Potosí City,San Luis Potosí,San Luis Potosi City,San Luis Potosi
+190,San Luis Río Colorado,91,San Luis Río Colorado,-1.0,-1.0,,,,
+352,Presidencia Municipal,130,San Miguel de Allende,20.903777777778,-100.71325,,Guanajuato,,Guanajuato
+351,CAISES,130,San Miguel de Allende,20.895555555556,-100.75416666667,San Miguel de Allende,Guanajuato,San Miguel de Allende,Guanajuato
+224,Quilehtla,111,Santa Cruz Quilehtla,19.213611111111,-98.222222222222,Santa Cruz Quilehtla,Tlaxcala,Santa Cruz Quilehtla,Tlaxcala
+170,Bomberos,78,Santiago de Querétaro,20.587222222222,-100.39472222222,Querétaro,Querétaro,Queretaro,Queretaro
+168,Epigmenio González,78,Santiago de Querétaro,20.627625,-100.40876666667,Querétaro,Querétaro,Queretaro,Queretaro
+169,Félix Osores,78,Santiago de Querétaro,20.635125,-100.45924722222,Querétaro,Querétaro,Queretaro,Queretaro
+408,UMMA1,78,Santiago de Querétaro,20.61475,-100.42430555556,Querétaro,Querétaro,Queretaro,Queretaro
+409,UMMA2,78,Santiago de Querétaro,20.584805555556,-100.37752777778,Querétaro,Querétaro,Queretaro,Queretaro
+80,Hospital General,49,Silao,20.947777777778,-101.42583333333,Silao,Guanajuato,Silao,Guanajuato
+219,Estación de Policía,106,Tampico,22.381666666667,-97.909722222222,Altamira,Tamaulipas,Altamira,Tamaulipas
+199,Universidad Politécnica del Centro,98,Teapa,17.8095,-92.925944444444,,Tabasco,,Tabasco
+44,Tecate,34,Tecate,32.568825,-116.62688055556,Tecate,Baja California,Tecate,Baja California
+379,Tecate,34,Tecate,32.568825,-116.62688055556,Tecate,Baja California,Tecate,Baja California
+84,Estación de Bomberos de Cd. Sahagún,53,Tepeapulco,19.771694444444,-98.577694444444,Ciudad Sahagún,Hidalgo,Ciudad Sahagun,Hidalgo
+87,Primaria Melchor Ocampo,56,Tepeji,19.905555555556,-99.346944444444,Tepeji de Ocampo,Hidalgo,Tepeji de Ocampo,Hidalgo
+86,Presidencia Municipal Tepetitlán,55,Tepetitlán,20.186361111111,-99.380361111111,,Hidalgo,,Hidalgo
+137,Primaria Julián Gascón Mercado,71,Tepic,21.509805555556,-104.91018055556,Tepic,Nayarit,Tepic,Nayarit
+138,SEMANAY,71,Tepic,21.509833333333,-104.896,Tepic,Nayarit,Tepic,Nayarit
+136,Tecnológico de Tepic,71,Tepic,21.478177777778,-104.86774166667,Tepic,Nayarit,Tepic,Nayarit
+404,Centro de Salud,35,Tijuana,-1.0,-1.0,,,,
+48,COLEF,35,Tijuana,32.519444444444,-117.51944444444,,,,
+405,Las Playas,35,Tijuana,-1.0,-1.0,,,,
+45,Tecnológico,35,Tijuana,32.531008333333,-116.98602777778,Tijuana,Baja California,Tijuana,Baja California
+376,Instituto Tecnológico de Tijuana ,35,Tijuana,32.530988888889,-116.98601111111,Tijuana,Baja California,Tijuana,Baja California
+47,La Mesa,35,Tijuana,32.4975,-116.97694444444,Tijuana,Baja California,Tijuana,Baja California
+378,La Mesa,35,Tijuana,19.489583333333,-98.801083333333,San Nicolás Tlaminca,State of Mexico,San Nicolas Tlaminca,State of Mexico
+375,Colegio de la Frontera,35,Tijuana,32.519666666667,-117.01161111111,Tijuana,Baja California,Tijuana,Baja California
+46,Laboratorio,35,Tijuana,32.529461111111,-116.92128055556,Chilpancingo,Baja California,Chilpancingo,Baja California
+377,Laboratorio,35,Tijuana,19.489583333333,-98.801083333333,San Nicolás Tlaminca,State of Mexico,San Nicolas Tlaminca,State of Mexico
+96,Biblioteca,60,Tizayuca,19.840583333333,-98.981333333333,Tizayuca,Hidalgo,Tizayuca,Hidalgo
+220,Palacio de Gobierno,107,Tlaxcala,19.317583333333,-98.237305555556,Tlaxcala City,Tlaxcala,Tlaxcala City,Tlaxcala
+88,Centro de Salud,57,Tlaxcoapan,20.186361111111,-99.228416666667,Mangas,Hidalgo,Mangas,Hidalgo
+122,Aeropuerto,65,Toluca,19.334558333333,-99.573972222222,San Miguel Totoltepec,State of Mexico,San Miguel Totoltepec,State of Mexico
+123,Ceboruco,65,Toluca,19.260305555556,-99.645722222222,Toluca,State of Mexico,Toluca,State of Mexico
+124,Toluca Centro,65,Toluca,19.278083333333,-99.656416666667,Toluca,State of Mexico,Toluca,State of Mexico
+125,Metepec,65,Toluca,19.270194444444,-99.595194444444,Metepec,State of Mexico,Metepec,State of Mexico
+126,Oxtotitlán,65,Toluca,19.283444444444,-99.683488888889,Toluca,State of Mexico,Toluca,State of Mexico
+127,San Cristobal,65,Toluca,19.327222222222,-99.634288888889,San Lorenzo Tepaltitlan,State of Mexico,San Lorenzo Tepaltitlan,State of Mexico
+385,San Lorenzo Tepaltitlán ,65,Toluca,-1.0,-1.0,,,,
+128,San Mateo Atenco,65,Toluca,19.280416666667,-99.541666666667,San Mateo Atenco,State of Mexico,San Mateo Atenco,State of Mexico
+56,CONALEP,40,Torreón,25.522694444444,-103.39580555556,Torreón,Coahuila,Torreon,Coahuila
+339,HECAT,40,Torreón,25.544416666667,-103.4295,Torreón,Coahuila,Torreon,Coahuila
+230,Capellania,113,Torreón Municipal,-1.0,-1.0,,,,
+226,Centro Cultural R. Mijares,113,Torreón Municipal,25.544722222222,-103.43022222222,Torreón,Coahuila,Torreon,Coahuila
+227,DIF- Torreón,113,Torreón Municipal,25.535452222222,-103.45648166667,Torreón,Coahuila,Torreon,Coahuila
+420,HECAT,113,Torreón Municipal,25.528907777778,-103.43148361111,Torreón,Coahuila,Torreon,Coahuila
+340,Hospital Infantil,113,Torreón Municipal,25.544416666667,-103.4295,Torreón,Coahuila,Torreon,Coahuila
+231,Parroquia,113,Torreón Municipal,-1.0,-1.0,,,,
+233,Primaria,113,Torreón Municipal,-1.0,-1.0,,,,
+228,Secundaria Gral. 2,113,Torreón Municipal,-1.0,-1.0,,,,
+229,Secundaria Gral. 3,113,Torreón Municipal,-1.0,-1.0,,,,
+232,Secundaria Técnica 83,113,Torreón Municipal,-1.0,-1.0,,,,
+90,Centro de Salud,58,Tula,20.053777777778,-99.340055555556,Tula,Hidalgo,Tula,Hidalgo
+89,Hospital Regional,58,Tula,20.04,-99.343611111111,Tula,Hidalgo,Tula,Hidalgo
+309,Clínica de Salud,58,Tula,20.053777777778,-99.340083333333,Tula,Hidalgo,Tula,Hidalgo
+91,Oficinas Tula,58,Tula,20.776611111111,-99.0,,Hidalgo,,Hidalgo
+307,Tula,58,Tula,-1.0,-1.0,,,,
+292,Tulancingo,121,Tulancingo,20.08525,-98.366638888889,Tulancingo de Bravo,Hidalgo,Tulancingo de Bravo,Hidalgo
+52,DIF,37,Tuxtla Gutiérrez,16.756052777778,-93.080505555556,Tuxtla Gutiérrez,Chiapas,Tuxtla Gutierrez,Chiapas
+51,Delegación Terán,37,Tuxtla Gutiérrez,16.753611111111,-93.173888888889,Tuxtla Gutiérrez,Chiapas,Tuxtla Gutierrez,Chiapas
+398,Palacio Municipal,37,Tuxtla Gutiérrez,19.489583333333,-98.801083333333,San Nicolás Tlaminca,State of Mexico,San Nicolas Tlaminca,State of Mexico
+50,Palacio Municipal,37,Tuxtla Gutiérrez,16.755277777778,-93.120833333333,Tuxtla Gutiérrez,Chiapas,Tuxtla Gutierrez,Chiapas
+240,Acolman,119,Valle de México,19.635555555556,-98.912222222222,Tepexpan,State of Mexico,Tepexpan,State of Mexico
+242,Ajusco Medio,119,Valle de México,19.272222222222,-99.207777777778,Mexico City,Mexico City,Mexico City,Mexico City
+241,Ajusco,119,Valle de México,19.154286111111,-99.162777777778,Parres El Guarda,Mexico City,Parres El Guarda,Mexico City
+314,Aragón,119,Valle de México,19.47138,-99.074546111111,Mexico City,Mexico City,Mexico City,Mexico City
+243,Atizapán,119,Valle de México,19.577222222222,-99.254166666667,Ciudad López Mateos,State of Mexico,Ciudad Lopez Mateos,State of Mexico
+315,Azcapotzalco,119,Valle de México,19.489388888889,-99.198972222222,Mexico City,Mexico City,Mexico City,Mexico City
+300,Benito Juárez,119,Valle de México,19.371666666667,-99.159166666667,Mexico City,Mexico City,Mexico City,Mexico City
+244,Camarones,119,Valle de México,19.468611111111,-99.17,Mexico City,Mexico City,Mexico City,Mexico City
+245,Centro de Ciencias de la Atmósfera,119,Valle de México,19.326388888889,-99.176111111111,Mexico City,Mexico City,Mexico City,Mexico City
+317,Cerro de la estrella,119,Valle de México,19.336555555556,-99.075111111111,Mexico City,Mexico City,Mexico City,Mexico City
+246,Chalco,119,Valle de México,19.267222222222,-98.886111111111,Chalco de Díaz Covarrubias,State of Mexico,Chalco de Diaz Covarrubias,State of Mexico
+247,Coyoacán,119,Valle de México,19.350277777778,-99.157222222222,Mexico City,Mexico City,Mexico City,Mexico City
+248,Cuajimalpa,119,Valle de México,19.365555555556,-99.291944444444,Mexico City,Mexico City,Mexico City,Mexico City
+318,Cuitláhuac ,119,Valle de México,19.471744166667,-99.165840277778,Mexico City,Mexico City,Mexico City,Mexico City
+249,Cuautitlán,119,Valle de México,19.722222222222,-99.198611111111,,State of Mexico,,State of Mexico
+250,FES Acatlán,119,Valle de México,19.4825,-99.243611111111,Ciudad Satélite,State of Mexico,Ciudad Satelite,State of Mexico
+302,Gustavo A. Madero,119,Valle de México,19.482777777778,-99.094722222222,Mexico City,Mexico City,Mexico City,Mexico City
+320,Hangares,119,Valle de México,19.423055555556,-99.084722222222,Mexico City,Mexico City,Mexico City,Mexico City
+251,Hospital General de México,119,Valle de México,19.411666666667,-99.152222222222,Mexico City,Mexico City,Mexico City,Mexico City
+322,Instituto Mexicano del Petróleo ,119,Valle de México,19.490277777778,-99.147222222222,Mexico City,Mexico City,Mexico City,Mexico City
+301,Instituto Nacional de Investigaciones Nucleares,119,Valle de México,19.292222222222,-99.380555555556,San Jerónimo Acazulco,State of Mexico,San Jeronimo Acazulco,State of Mexico
+252,Iztacalco,119,Valle de México,19.384444444444,-99.117777777778,Mexico City,Mexico City,Mexico City,Mexico City
+324,Lagunilla,119,Valle de México,19.444166666667,-99.135275,Mexico City,Mexico City,Mexico City,Mexico City
+254,Los Laureles,119,Valle de México,19.578888888889,-99.039722222222,Ecatepec de Morelos,State of Mexico,Ecatepec de Morelos,State of Mexico
+255,Lomas,119,Valle de México,19.403,-99.242055555556,Mexico City,Mexico City,Mexico City,Mexico City
+253,La Presa,119,Valle de México,19.535,-99.117777777778,Tlalnepantla,State of Mexico,Tlalnepantla,State of Mexico
+325,La Villa,119,Valle de México,19.469708333333,-99.117922222222,Mexico City,Mexico City,Mexico City,Mexico City
+326,Museo de la Ciudad de México ,119,Valle de México,19.429166666667,-99.132222222222,Mexico City,Mexico City,Mexico City,Mexico City
+256,Merced,119,Valle de México,19.424722222222,-99.119722222222,Mexico City,Mexico City,Mexico City,Mexico City
+263,Miguel Hidalgo,119,Valle de México,19.404,-99.202722222222,Mexico City,Mexico City,Mexico City,Mexico City
+399,Metro Insurgentes,119,Valle de México,19.4235625,-99.162893611111,Mexico City,Mexico City,Mexico City,Mexico City
+257,Montecillo,119,Valle de México,19.767777777778,-99.507777777778,,State of Mexico,,State of Mexico
+299,Milpa Alta,119,Valle de México,19.199166666667,-99.010833333333,San Antonio Tecómitl,Mexico City,San Antonio Tecomitl,Mexico City
+329,Netzahualcóyotl ,119,Valle de México,19.422308611111,-99.026118333333,Nezahualcóyotl,State of Mexico,Nezahualcoyotl,State of Mexico
+258,Nezahualcóyotl,119,Valle de México,19.393888888889,-99.028333333333,Mexico City,State of Mexico,Mexico City,State of Mexico
+331,Netzahualcóyotl Sur ,119,Valle de México,19.38889,-99.01944,Nezahualcóyotl,State of Mexico,Nezahualcoyotl,State of Mexico
+259,Pedregal,119,Valle de México,19.325277777778,-99.204166666667,Mexico City,Mexico City,Mexico City,Mexico City
+332,Plateros,119,Valle de México,19.367027777778,-99.200104722222,Mexico City,Mexico City,Mexico City,Mexico City
+260,San Agustín,119,Valle de México,19.533055555556,-99.030555555556,Ecatepec de Morelos,State of Mexico,Ecatepec de Morelos,State of Mexico
+262,Santa Fe,119,Valle de México,19.3575,-99.263055555556,Mexico City,Mexico City,Mexico City,Mexico City
+264,Secretaría de Hacienda,119,Valle de México,19.446194444444,-99.207861111111,Mexico City,Mexico City,Mexico City,Mexico City
+261,San Juan de Aragón,119,Valle de México,19.452777777778,-99.086111111111,Mexico City,Mexico City,Mexico City,Mexico City
+400,Santa Ursula,119,Valle de México,19.314444444444,-99.150055555556,Mexico City,Mexico City,Mexico City,Mexico City
+334,Tacuba,119,Valle de México,19.454846388889,-99.202814722222,Mexico City,Mexico City,Mexico City,Mexico City
+265,Tlahuac,119,Valle de México,19.246666666667,-99.010833333333,Mexico City,Mexico City,Mexico City,Mexico City
+335,Taxqueña ,119,Valle de México,19.337456666667,-99.122986666667,Mexico City,Mexico City,Mexico City,Mexico City
+266,Tlalnepantla,119,Valle de México,19.529166666667,-99.204722222222,Tlalnepantla,State of Mexico,Tlalnepantla,State of Mexico
+267,Tultitlán,119,Valle de México,19.602777777778,-99.177222222222,Buenavista,State of Mexico,Buenavista,State of Mexico
+336,Tlalpan,119,Valle de México,19.256858333333,-99.183862222222,,Mexico City,,Mexico City
+269,UAM Xochimilco,119,Valle de México,19.304444444444,-99.103888888889,Mexico City,Mexico City,Mexico City,Mexico City
+268,UAM Iztapalapa,119,Valle de México,19.360833333333,-99.073888888889,Mexico City,Mexico City,Mexico City,Mexico City
+401,Vallejo,119,Valle de México,19.524139444444,-99.165998611111,Mexico City,Mexico City,Mexico City,Mexico City
+270,Villa de las Flores,119,Valle de México,19.6575,-99.096666666667,Coacalco de Berriozábal,State of Mexico,Coacalco de Berriozabal,State of Mexico
+271,Xalostoc,119,Valle de México,19.526111111111,-99.0825,Ecatepec de Morelos,State of Mexico,Ecatepec de Morelos,State of Mexico
+338,Xochimilco,119,Valle de México,-1.0,-1.0,,,,
+355,Presidencia Municipal,133,Villagrán,20.516944444444,-100.99722222222,Villagrán,Guanajuato,Villagran,Guanajuato
+235,STPS,115,Xalapa,19.530094444444,-96.881880555556,Xalapa,Veracruz,Xalapa,Veracruz
+97,Delegación Municipal,61,Xochicoatlán,19.969444444444,-98.861666666667,Zapotlán de Juárez,Hidalgo,Zapotlan de Juarez,Hidalgo
+98,Escuela Primaria,61,Xochicoatlán,20.779722222222,-98.678611111111,Xochicoatlán,Hidalgo,Xochicoatlan,Hidalgo
+99,Oficina de Correos,61,Xochicoatlán,20.776611111111,-98.679861111111,Xochicoatlán,Hidalgo,Xochicoatlan,Hidalgo
+294,Cd. Administrativa,118,Zacatecas,22.776361944444,-102.61734111111,Zacatecas City,Zacatecas,Zacatecas City,Zacatecas
+239,IMSS Zac,118,Zacatecas,22.775258333333,-102.56666666667,Zacatecas City,Zacatecas,Zacatecas City,Zacatecas
+295,Col. Minera,118,Zacatecas,22.770455,-102.58512555556,Zacatecas City,Zacatecas,Zacatecas City,Zacatecas
+238,ZigZag,118,Zacatecas,22.762161111111,-102.57890555556,Zacatecas City,Zacatecas,Zacatecas City,Zacatecas
+135,Tecnológico de Zacatepec,70,Zacatepec,18.654444444444,-99.183333333333,Zacatepec de Hidalgo,Morelos,Zacatepec de Hidalgo,Morelos
+308,Palacio Municipal,126,Zapotlán,19.969444444444,-98.861666666667,Zapotlán de Juárez,Hidalgo,Zapotlan de Juarez,Hidalgo
